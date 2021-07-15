@@ -11,5 +11,5 @@
 
 ## Sobre o projeto
 
-  <p>O intituito foi a criação de um portal para ser utilizado para divulgação de quem sou, minhas skills, experiência e redes sociais, foi utilizado Bootstrap, CSS, HTML e JS para o desenvolvimento, sendo 100% responsivo e claro falando de mim<p>
+  <p>O intuito foi a criação de um portal para ser utilizado para divulgação de quem sou, minhas skills, experiência e redes sociais, foi utilizado Bootstrap, CSS, HTML e JS para o desenvolvimento, sendo 100% responsivo e claro falando de mim<p>
   <p>Link para acesso: https://ferouck.github.io/</p>
